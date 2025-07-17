@@ -1,0 +1,2 @@
+# wize-school
+School website 
